@@ -1,6 +1,9 @@
 # OpenCV
 
-## 실습
+<details>
+<summary>실습 1</summary>  
+    
+## 실습1
 
 ```
 import cv2
@@ -99,7 +102,8 @@ cv2.destroyAllWindows()
 <img width="452" height="138" alt="image" src="https://github.com/user-attachments/assets/dc3e66bc-8e8f-476a-99ae-e9f71577717d" />
   
 
-
+</details> <details> <summary>실습 2</summary>
+    
 ## kNN을 이용해 색상 학습 후 옷 색상 인식하기  
 
 ```
